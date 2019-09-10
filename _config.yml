@@ -3,7 +3,7 @@
 title: Blog của Yuki Mắt Hý
 email: yukimathy@domain.com
 brand: Yuki Mắt Hý
-headline: Communicator and Hiring Manager
+headline: Thích đi và suy tư
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,8 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: kieuhy.mk92@gmail.com
+phone: 0917 000 000
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
